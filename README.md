@@ -1,5 +1,3 @@
-<h4>
-
 ```nix
 let
   name = "Victor Freire";
@@ -12,5 +10,3 @@ let
   };
 in present-time
 ```
-
-</h4>
