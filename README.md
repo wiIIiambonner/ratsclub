@@ -7,18 +7,10 @@ let
   code = [ go python rust typescript ];
   tech = {
     frontend = [ angular ];
-    databases = [ mssql postgres sqlite ];
+    databases = [ postgres sqlite ];
     misc = [ aws docker linux nixos ];
   };
 in present-time
 ```
 
 </h4>
-  
-----
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratsclub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
